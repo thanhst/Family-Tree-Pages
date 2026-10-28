@@ -6,4 +6,4 @@ Shared family JSON lives on branch `codex/shared-data`, file `family-tree.json`.
 
 The shared family dataset is public by owner request. Application accounts, password hashes and sessions are not published. The empty JSON on main is only the optional local-mode seed.
 
-Built from private source c86ce8a by GitHub Actions run 40633991360.
+Built from private source 23588eb by GitHub Actions run 40634338793.
