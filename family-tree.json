@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "people": [
     {
       "id": "7cfd3c56-56a8-4ead-b6c8-d7634c513f06",
@@ -47,5 +47,25 @@
         "a11db13d-eb78-4e15-ae5d-5e37fc5fc88b"
       ]
     }
-  ]
+  ],
+  "lineages": [
+    {
+      "id": "lineage-default",
+      "name": "Gia phả hiện có",
+      "description": ""
+    }
+  ],
+  "families": [
+    {
+      "id": "family-default",
+      "lineageId": "lineage-default",
+      "name": "Gia đình hiện có",
+      "memberIds": [
+        "7cfd3c56-56a8-4ead-b6c8-d7634c513f06",
+        "a11db13d-eb78-4e15-ae5d-5e37fc5fc88b",
+        "3c54f22a-a713-447d-b03a-ca2fece672bf"
+      ]
+    }
+  ],
+  "accounts": []
 }
