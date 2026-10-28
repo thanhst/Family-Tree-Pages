@@ -16,6 +16,26 @@
       "spouseIds": []
     },
     {
+      "id": "8d207ce9-9556-4bb2-8179-6b4e0862f560",
+      "name": "Lê Thị Thùy",
+      "gender": "male",
+      "birthDate": "2000-12-25",
+      "deathDate": "",
+      "birthplace": "Hà Nội",
+      "biography": "Bà này rất ghê gớm, từng là chúa của một vùng. Chẳng may giờ đã bị thuần hóa nhưng tính khí vẫn rất nóng nảy. Từng đối chiến với Trương Phi 300 hiệp nhưng bất phân thắng bại.",
+      "phone": "0372016527",
+      "address": {
+        "houseNumber": "Số nhà 24",
+        "street": "Đê Xuân Kì",
+        "hamlet": "Xóm Cả",
+        "ward": "Xã Sóc Sơn",
+        "province": "Thành phố Hà Nội"
+      },
+      "fatherId": "a11db13d-eb78-4e15-ae5d-5e37fc5fc88b",
+      "motherId": "3c54f22a-a713-447d-b03a-ca2fece672bf",
+      "spouseIds": []
+    },
+    {
       "id": "a11db13d-eb78-4e15-ae5d-5e37fc5fc88b",
       "name": "Lê Văn Chinh",
       "gender": "male",
@@ -68,7 +88,8 @@
       "memberIds": [
         "7cfd3c56-56a8-4ead-b6c8-d7634c513f06",
         "a11db13d-eb78-4e15-ae5d-5e37fc5fc88b",
-        "3c54f22a-a713-447d-b03a-ca2fece672bf"
+        "3c54f22a-a713-447d-b03a-ca2fece672bf",
+        "8d207ce9-9556-4bb2-8179-6b4e0862f560"
       ]
     },
     {
