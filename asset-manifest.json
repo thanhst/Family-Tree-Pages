@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/Family-Tree-Pages/static/css/main.888e5adf.css",
-    "main.js": "/Family-Tree-Pages/static/js/main.fb5a6749.js",
+    "main.css": "/Family-Tree-Pages/static/css/main.3d517f07.css",
+    "main.js": "/Family-Tree-Pages/static/js/main.23886733.js",
     "static/js/206.f7fd638d.chunk.js": "/Family-Tree-Pages/static/js/206.f7fd638d.chunk.js",
     "index.html": "/Family-Tree-Pages/index.html"
   },
   "entrypoints": [
-    "static/css/main.888e5adf.css",
-    "static/js/main.fb5a6749.js"
+    "static/css/main.3d517f07.css",
+    "static/js/main.23886733.js"
   ]
 }
