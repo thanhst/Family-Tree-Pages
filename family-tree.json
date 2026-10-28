@@ -53,6 +53,11 @@
       "id": "lineage-default",
       "name": "Họ Lê",
       "description": "Đây có lẽ là một dòng họ rất lâu đời, vẫn còn nhiều ẩn số liên quan đến dòng họ này. Có lẽ một lúc nào đấy, sẽ có thể thấy được sự phồn thịnh của dòng họ này có thể là ở quá khứ hoặc tương lai."
+    },
+    {
+      "id": "13d859dd-ce12-46b7-a1c9-b4f451b6aef7",
+      "name": "Họ Nguyễn",
+      "description": "Đây là một dòng họ lâu đời, được bắt nguồn từ nhiều đời Nguyễn, có thể là quan lại quý tộc thời xưa."
     }
   ],
   "families": [
@@ -65,6 +70,12 @@
         "a11db13d-eb78-4e15-ae5d-5e37fc5fc88b",
         "3c54f22a-a713-447d-b03a-ca2fece672bf"
       ]
+    },
+    {
+      "id": "09e93c4e-10cf-40a6-9445-b985e68afb31",
+      "lineageId": "13d859dd-ce12-46b7-a1c9-b4f451b6aef7",
+      "name": "Nhánh chính",
+      "memberIds": []
     }
   ],
   "accounts": [
