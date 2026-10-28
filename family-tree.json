@@ -67,5 +67,13 @@
       ]
     }
   ],
-  "accounts": []
+  "accounts": [
+    {
+      "id": "d2ba6715-cfee-4f0d-90f1-727a038be0ab",
+      "username": "thanhxk2003",
+      "role": "admin",
+      "passwordHash": "scrypt$131072$8$1$cc6749b546bbf448018d992810dc4901$a6198e0883eeaab9fadd8d9b5766f45fc82c43a9478e71380dcf3c4dbd742799620ba9399a872f71e71829dd45e3aa6395eb6246ae7b1bb49e6c82b660328f91",
+      "bindings": []
+    }
+  ]
 }
