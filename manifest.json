@@ -1,0 +1,15 @@
+{
+  "short_name": "Gia phả",
+  "name": "Gia phả · Kết nối cội nguồn",
+  "icons": [
+    {
+      "src": "tree.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#285a43",
+  "background_color": "#f6f7f3"
+}
