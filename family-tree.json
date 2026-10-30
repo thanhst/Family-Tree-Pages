@@ -125,6 +125,19 @@
       "role": "admin",
       "passwordHash": "scrypt$131072$8$1$248af0d4e9cc93cad70916125781c7ae$46fb8421724795462192f31697f52244188e3f1e3b05efda599e921abdf57c4474d7a1d891f4dbc97ea67ac6e64bb10604196be81a455c0dc1c22931e0cc2454",
       "bindings": []
+    },
+    {
+      "id": "885b3059-2b9a-450e-be7c-9dbf039b372e",
+      "username": "thuyle2000",
+      "role": "member",
+      "passwordHash": "scrypt$131072$8$1$6ea810f66d8b28ce3c7e82302972acf8$8d469867abaf5ea3dcfcc200992bd76c3a8b4b2aa884f2ad71a94b6244e238ec354312d695fe87b7b54b8da5bb4a692b139e057db085cff410aa159a0a1920bd",
+      "bindings": [
+        {
+          "lineageId": "lineage-default",
+          "familyId": "family-default",
+          "memberId": "8d207ce9-9556-4bb2-8179-6b4e0862f560"
+        }
+      ]
     }
   ]
 }
