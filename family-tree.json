@@ -86,7 +86,9 @@
       "photo": "",
       "fatherId": null,
       "motherId": null,
-      "spouseIds": []
+      "spouseIds": [
+        "86f7e526-b388-402b-93b1-25414bb757eb"
+      ]
     },
     {
       "id": "3c54f22a-a713-447d-b03a-ca2fece672bf",
@@ -118,7 +120,9 @@
       "photo": "",
       "fatherId": null,
       "motherId": null,
-      "spouseIds": []
+      "spouseIds": [
+        "adbd2f2d-df8b-4b83-930a-9b051bd60279"
+      ]
     }
   ],
   "lineages": [
