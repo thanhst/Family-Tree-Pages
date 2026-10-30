@@ -2,6 +2,21 @@
   "version": 2,
   "people": [
     {
+      "id": "cc6289ec-1ebc-4850-b6c5-129f603e3d4d",
+      "name": "Hiệu Diệu Đát",
+      "gender": "female",
+      "birthDate": "1930-11-11",
+      "deathDate": "2000-06-16",
+      "birthplace": "",
+      "biography": "",
+      "phone": "",
+      "address": {},
+      "photo": "",
+      "fatherId": null,
+      "motherId": null,
+      "spouseIds": []
+    },
+    {
       "id": "7cfd3c56-56a8-4ead-b6c8-d7634c513f06",
       "name": "Lê Quang Thanh",
       "gender": "male",
@@ -229,7 +244,8 @@
         "f740156a-79bd-49b0-9c4f-20511eea642f",
         "87e44073-6173-4fd8-91d5-1f5a29a08731",
         "4d6adf93-1592-4fae-a427-eadcd093af2e",
-        "45e27a5a-7828-48ec-92ab-196bde72ead0"
+        "45e27a5a-7828-48ec-92ab-196bde72ead0",
+        "cc6289ec-1ebc-4850-b6c5-129f603e3d4d"
       ]
     },
     {
