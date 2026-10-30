@@ -89,6 +89,21 @@
       "spouseIds": [
         "a11db13d-eb78-4e15-ae5d-5e37fc5fc88b"
       ]
+    },
+    {
+      "id": "86f7e526-b388-402b-93b1-25414bb757eb",
+      "name": "Trần Thị Chữ",
+      "gender": "male",
+      "birthDate": "",
+      "deathDate": "",
+      "birthplace": "",
+      "biography": "",
+      "phone": "",
+      "address": {},
+      "photo": "",
+      "fatherId": null,
+      "motherId": null,
+      "spouseIds": []
     }
   ],
   "lineages": [
@@ -113,7 +128,8 @@
         "a11db13d-eb78-4e15-ae5d-5e37fc5fc88b",
         "3c54f22a-a713-447d-b03a-ca2fece672bf",
         "8d207ce9-9556-4bb2-8179-6b4e0862f560",
-        "179910d1-f662-43f1-980f-cfda6af9d0ed"
+        "179910d1-f662-43f1-980f-cfda6af9d0ed",
+        "86f7e526-b388-402b-93b1-25414bb757eb"
       ]
     },
     {
