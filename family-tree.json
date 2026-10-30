@@ -51,6 +51,21 @@
       "spouseIds": []
     },
     {
+      "id": "87e44073-6173-4fd8-91d5-1f5a29a08731",
+      "name": "Lê Thị Lý",
+      "gender": "female",
+      "birthDate": "1983-01-19",
+      "deathDate": "",
+      "birthplace": "",
+      "biography": "",
+      "phone": "",
+      "address": {},
+      "photo": "",
+      "fatherId": "adbd2f2d-df8b-4b83-930a-9b051bd60279",
+      "motherId": "86f7e526-b388-402b-93b1-25414bb757eb",
+      "spouseIds": []
+    },
+    {
       "id": "8d207ce9-9556-4bb2-8179-6b4e0862f560",
       "name": "Lê Thị Thùy",
       "gender": "male",
@@ -181,7 +196,8 @@
         "86f7e526-b388-402b-93b1-25414bb757eb",
         "adbd2f2d-df8b-4b83-930a-9b051bd60279",
         "fc0d4f27-e717-44a6-b202-c5c14aba6119",
-        "f740156a-79bd-49b0-9c4f-20511eea642f"
+        "f740156a-79bd-49b0-9c4f-20511eea642f",
+        "87e44073-6173-4fd8-91d5-1f5a29a08731"
       ]
     },
     {
