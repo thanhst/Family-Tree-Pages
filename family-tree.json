@@ -14,7 +14,9 @@
       "photo": "",
       "fatherId": null,
       "motherId": null,
-      "spouseIds": []
+      "spouseIds": [
+        "45e27a5a-7828-48ec-92ab-196bde72ead0"
+      ]
     },
     {
       "id": "7cfd3c56-56a8-4ead-b6c8-d7634c513f06",
@@ -161,7 +163,9 @@
       "photo": "",
       "fatherId": null,
       "motherId": null,
-      "spouseIds": []
+      "spouseIds": [
+        "cc6289ec-1ebc-4850-b6c5-129f603e3d4d"
+      ]
     },
     {
       "id": "adbd2f2d-df8b-4b83-930a-9b051bd60279",
