@@ -134,6 +134,21 @@
       "spouseIds": []
     },
     {
+      "id": "45e27a5a-7828-48ec-92ab-196bde72ead0",
+      "name": "Lê Văn Nho",
+      "gender": "male",
+      "birthDate": "1930-10-10",
+      "deathDate": "2001-04-28",
+      "birthplace": "",
+      "biography": "",
+      "phone": "",
+      "address": {},
+      "photo": "",
+      "fatherId": null,
+      "motherId": null,
+      "spouseIds": []
+    },
+    {
       "id": "adbd2f2d-df8b-4b83-930a-9b051bd60279",
       "name": "Lê Văn Viễn",
       "gender": "male",
@@ -213,7 +228,8 @@
         "fc0d4f27-e717-44a6-b202-c5c14aba6119",
         "f740156a-79bd-49b0-9c4f-20511eea642f",
         "87e44073-6173-4fd8-91d5-1f5a29a08731",
-        "4d6adf93-1592-4fae-a427-eadcd093af2e"
+        "4d6adf93-1592-4fae-a427-eadcd093af2e",
+        "45e27a5a-7828-48ec-92ab-196bde72ead0"
       ]
     },
     {
