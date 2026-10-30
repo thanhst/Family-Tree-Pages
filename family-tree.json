@@ -36,6 +36,21 @@
       "spouseIds": []
     },
     {
+      "id": "f740156a-79bd-49b0-9c4f-20511eea642f",
+      "name": "Lê Thị Hoa",
+      "gender": "male",
+      "birthDate": "1981-11-11",
+      "deathDate": "",
+      "birthplace": "",
+      "biography": "",
+      "phone": "",
+      "address": {},
+      "photo": "",
+      "fatherId": null,
+      "motherId": null,
+      "spouseIds": []
+    },
+    {
       "id": "8d207ce9-9556-4bb2-8179-6b4e0862f560",
       "name": "Lê Thị Thùy",
       "gender": "male",
@@ -165,7 +180,8 @@
         "179910d1-f662-43f1-980f-cfda6af9d0ed",
         "86f7e526-b388-402b-93b1-25414bb757eb",
         "adbd2f2d-df8b-4b83-930a-9b051bd60279",
-        "fc0d4f27-e717-44a6-b202-c5c14aba6119"
+        "fc0d4f27-e717-44a6-b202-c5c14aba6119",
+        "f740156a-79bd-49b0-9c4f-20511eea642f"
       ]
     },
     {
