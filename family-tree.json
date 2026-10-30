@@ -87,6 +87,21 @@
       "spouseIds": []
     },
     {
+      "id": "4d6adf93-1592-4fae-a427-eadcd093af2e",
+      "name": "Lê Thị Thuyết",
+      "gender": "female",
+      "birthDate": "1985-11-11",
+      "deathDate": "",
+      "birthplace": "",
+      "biography": "",
+      "phone": "",
+      "address": {},
+      "photo": "",
+      "fatherId": "adbd2f2d-df8b-4b83-930a-9b051bd60279",
+      "motherId": "86f7e526-b388-402b-93b1-25414bb757eb",
+      "spouseIds": []
+    },
+    {
       "id": "a11db13d-eb78-4e15-ae5d-5e37fc5fc88b",
       "name": "Lê Văn Chinh",
       "gender": "male",
@@ -197,7 +212,8 @@
         "adbd2f2d-df8b-4b83-930a-9b051bd60279",
         "fc0d4f27-e717-44a6-b202-c5c14aba6119",
         "f740156a-79bd-49b0-9c4f-20511eea642f",
-        "87e44073-6173-4fd8-91d5-1f5a29a08731"
+        "87e44073-6173-4fd8-91d5-1f5a29a08731",
+        "4d6adf93-1592-4fae-a427-eadcd093af2e"
       ]
     },
     {
