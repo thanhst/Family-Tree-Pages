@@ -38,7 +38,7 @@
     {
       "id": "f740156a-79bd-49b0-9c4f-20511eea642f",
       "name": "Lê Thị Hoa",
-      "gender": "male",
+      "gender": "female",
       "birthDate": "1981-11-11",
       "deathDate": "",
       "birthplace": "",
@@ -46,8 +46,8 @@
       "phone": "",
       "address": {},
       "photo": "",
-      "fatherId": null,
-      "motherId": null,
+      "fatherId": "adbd2f2d-df8b-4b83-930a-9b051bd60279",
+      "motherId": "86f7e526-b388-402b-93b1-25414bb757eb",
       "spouseIds": []
     },
     {
