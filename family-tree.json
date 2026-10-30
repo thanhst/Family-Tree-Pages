@@ -11,6 +11,7 @@
       "biography": "",
       "phone": "",
       "address": {},
+      "photo": "resource/images/e93a8d98-de75-478d-bfca-f99c0fe105ca.jpg",
       "fatherId": "a11db13d-eb78-4e15-ae5d-5e37fc5fc88b",
       "motherId": "3c54f22a-a713-447d-b03a-ca2fece672bf",
       "spouseIds": []
@@ -29,6 +30,7 @@
         "street": "Đê Xuân Kì",
         "province": "Thành phố Hà Nội"
       },
+      "photo": "",
       "fatherId": "a11db13d-eb78-4e15-ae5d-5e37fc5fc88b",
       "motherId": "3c54f22a-a713-447d-b03a-ca2fece672bf",
       "spouseIds": []
@@ -49,6 +51,7 @@
         "ward": "Xã Sóc Sơn",
         "province": "Thành phố Hà Nội"
       },
+      "photo": "",
       "fatherId": "a11db13d-eb78-4e15-ae5d-5e37fc5fc88b",
       "motherId": "3c54f22a-a713-447d-b03a-ca2fece672bf",
       "spouseIds": []
@@ -63,6 +66,7 @@
       "biography": "Bố tôi đấy.",
       "phone": "",
       "address": {},
+      "photo": "",
       "fatherId": null,
       "motherId": null,
       "spouseIds": [
@@ -79,6 +83,7 @@
       "biography": "",
       "phone": "",
       "address": {},
+      "photo": "",
       "fatherId": null,
       "motherId": null,
       "spouseIds": [
