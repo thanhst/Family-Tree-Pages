@@ -74,6 +74,21 @@
       ]
     },
     {
+      "id": "fc0d4f27-e717-44a6-b202-c5c14aba6119",
+      "name": "Lê Văn Chúc",
+      "gender": "male",
+      "birthDate": "1991-09-01",
+      "deathDate": "",
+      "birthplace": "",
+      "biography": "",
+      "phone": "",
+      "address": {},
+      "photo": "",
+      "fatherId": "adbd2f2d-df8b-4b83-930a-9b051bd60279",
+      "motherId": "86f7e526-b388-402b-93b1-25414bb757eb",
+      "spouseIds": []
+    },
+    {
       "id": "adbd2f2d-df8b-4b83-930a-9b051bd60279",
       "name": "Lê Văn Viễn",
       "gender": "male",
@@ -149,7 +164,8 @@
         "8d207ce9-9556-4bb2-8179-6b4e0862f560",
         "179910d1-f662-43f1-980f-cfda6af9d0ed",
         "86f7e526-b388-402b-93b1-25414bb757eb",
-        "adbd2f2d-df8b-4b83-930a-9b051bd60279"
+        "adbd2f2d-df8b-4b83-930a-9b051bd60279",
+        "fc0d4f27-e717-44a6-b202-c5c14aba6119"
       ]
     },
     {
