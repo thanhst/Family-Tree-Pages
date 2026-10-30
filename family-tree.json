@@ -123,7 +123,7 @@
       "id": "d2ba6715-cfee-4f0d-90f1-727a038be0ab",
       "username": "thanhxk2003",
       "role": "admin",
-      "passwordHash": "scrypt$131072$8$1$cc6749b546bbf448018d992810dc4901$a6198e0883eeaab9fadd8d9b5766f45fc82c43a9478e71380dcf3c4dbd742799620ba9399a872f71e71829dd45e3aa6395eb6246ae7b1bb49e6c82b660328f91",
+      "passwordHash": "scrypt$131072$8$1$248af0d4e9cc93cad70916125781c7ae$46fb8421724795462192f31697f52244188e3f1e3b05efda599e921abdf57c4474d7a1d891f4dbc97ea67ac6e64bb10604196be81a455c0dc1c22931e0cc2454",
       "bindings": []
     }
   ]
